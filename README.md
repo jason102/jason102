@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Thanks for stopping by my GitHub account! I'm currently into PERN stack (PostgreSQL, Express.js, React, Node.js) fullstack app development using TypeScript/JavaScript.
+
+- 🔭 I’m currently working on a demo project called [Favorite Map Locations](https://github.com/jason102/fav-map-locations/tree/feature/code-for-review), which allows users to save places on the map, upload photos, rate, and leave/respond to comments per place.
+- 👯 I’m looking to collaborate on a new job! Can I join your company? Please find my CV/resume in the Featured section on my [LinkedIn page](https://www.linkedin.com/in/jstine/).
+- 💬 Ask me about anything related to the PERN stack or JavaScript/TypeScript: I love discussing it and have been a mentor!
+- ⚡ Fun fact: I developed and published my own React Native app on the app stores called LingoMap, a China map app for foreigners who cannot read Chinese, essentially a translation of Alibaba Maps that shows places/directions in Chinese, English, and Mandarin pinyin for pronunciation. This app has been promoted to and downloaded by thousands of users and established an enthusiastic user and fan base.
+
 <!--
 **jason102/jason102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
